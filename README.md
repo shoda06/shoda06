@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="./assets/header.svg" width="100%">
-</div>
+<p align="center">
+  <img src="assets/header.svg" alt="Dilshoda's GitHub header">
+</p>
 
 # `whoami`
 
