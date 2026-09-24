@@ -1,16 +1,12 @@
-## Hi there 👋
+<div align="center">
+  <!-- Typing SVG Forest Banner -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2EA44F&center=true&vCenter=true&width=500&lines=%3E+LOADING+FOREST+ENGINE...;Game+Dev+%2B+Hardware+%2B+Data;%3E+BUILDING+IN+THE+OPEN..." alt="Typing SVG Banner" />
+  </a>
+</div>
 
-<!--
-**shoda06/shoda06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🌲 `> whoami`
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Class:** Forest Ranger / Systems Architect
+* **Specializations:** Embedded Systems (Hardware) • Real-Time Graphics (Game Dev) • Data Pipelines (Data Eng)
+* **Current Expedition:** Ingesting live hardware telemetry into real-time game engine visualizers.
