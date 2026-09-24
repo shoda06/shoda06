@@ -5,22 +5,24 @@
   </a>
 </div>
 
-# 🌲 `> whoami`
+# `whoami`
 
-## 🍃 Class Attributes & Skill Trees
+> 🌲 **CS student · builder · explorer**
 
-### 🏹 Game Developer (Graphics & Mechanics)
-* **Engines & Shaders:** `C++`, `Unreal Engine`, `Unity`, `GLSL/HLSL Shaders`, `OpenGL`
-* **Focus:** Custom physics engines, shader programming, entity-component systems (ECS)
+Third-year Computer Science student exploring the intersection of
+**data, systems, AI, game development, and hardware.**
 
-### 🌿 Hardware & Embedded Systems
-* **Microcontrollers:** `ESP32`, `STM32`, `Arduino`, `Raspberry Pi`, `PCB Design (KiCad)`
-* **Protocols:** `SPI`, `I2C`, `UART`, `MQTT`, `FreeRTOS`, `C/C++`, `Rust`
+I like turning curiosity into things I can actually build,
+break, understand, and rebuild.
 
-### 🌾 Data Engineer (Infrastructure & Telemetry)
-* **Pipelines & Engines:** `SQL`, `Apache Kafka`, `Apache Spark`, `Airflow`, `Docker`
-* **Storage:** `PostgreSQL`, `Redis`, `ETL/ELT Architecture`, `Real-Time Data Streams`
+`current_mode: exploring`
 
-* **Class:** Forest Ranger / Systems Architect
-* **Specializations:** Embedded Systems (Hardware) • Real-Time Graphics (Game Dev) • Data Pipelines (Data Eng)
-* **Current Expedition:** Ingesting live hardware telemetry into real-time game engine visualizers.
+## `player.stats`
+
+| | |
+|---|---|
+| 🎓 Class | Computer Science |
+| 🌱 Level | 03 |
+| 🧭 Current mode | Exploring |
+| 🗺️ Main areas | Data · Systems · AI · Games · Hardware |
+| 🌲 Environment | Green / real-world tech |
