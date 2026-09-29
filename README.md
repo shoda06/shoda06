@@ -30,50 +30,44 @@ third-year computer science student exploring **data, hardware, game development
 
 > university computer science coursework and laboratory assignments.
 
-| course / module | focus area | lab commits | status |
+| course / module | lab commits | 
 | :--- | :--- | :--- | :--- |
-| **data structures & algorithms** | python data structures | [lab 1](https://github.com/shoda06) · [lab 2](https://github.com/shoda06) · [lab 3](https://github.com/shoda06) | `completed` |
-| **object-oriented programming** | kotlin functions & formatting | [lab 1](https://github.com/shoda06) · [lab 2](https://github.com/shoda06) | `completed` |
-| **computer networking** | cisco packet tracer topologies | [lab 1](https://github.com/shoda06) · [lab 2](https://github.com/shoda06) · [lab 3](https://github.com/shoda06) | `in progress` |
-| **embedded systems** | hardware & mcu programming | [lab 1](https://github.com/shoda06) · [lab 2](https://github.com/shoda06) | `in progress` |
+| **Web Application** | [lab tasks](https://github.com/shoda06/web-development-labs) | 
+| **Mobile Application** | [assignments](https://github.com/shoda06) |
+| **Game Development** | [projects](https://github.com/shoda06) | 
+| **Operating Systems** | [lab tasks](https://github.com/shoda06) |
+| **System Adminstration** | [assignments](https://github.com/shoda06) |
+
 
 ---
 
 ## `skills/`
 
 ### ⚔️ languages
-`python` · `kotlin` · `html/css` · `sql` · `c/c++`
+`python` · `kotlin` · `java` · `C#` · `html/css` · `sql`   
 
 ### 🧰 tools & platforms
-`git/github` · `cisco packet tracer` · `postgresql` · `vs code` · `linux`
+`git/github` · `cisco packet tracer` · `mysql` · `linux`
 
 ### 🧠 abilities
-`data engineering` · `embedded hardware` · `network topology` · `applied ml` · `game dev`
+`<exploring->developing>`
 
 ---
 
 ## `projects/`
 
-- **[crop disease prediction model](https://github.com/shoda06)** — applied deep learning model analyzing environmental data for crop disease prediction.
-- **[interactive ui components](https://github.com/shoda06)** — clean, 3d tactile web buttons and components inspired by modern gamified ui aesthetics.
+- **[mu blog platform](https://www.mu-blog.uz/)** — academic student blog platform ~ community engagement for students.
 
 ---
 
 ## `achievements/`
-
-* 🎓 **millat umidi university** — computer science
-* 🏅 **academic excellence scholarship**
-* 👩‍🏫 **sat math support teacher**
-* 🌍 **it community uzbekistan** — core team
-* 🤝 **unitycares** — founder
-* 🧪 **ml / research** — exploring applied machine learning
-
+`<exploring->developing>`
+  
 ---
 
 ## `philosophy/`
 
-> *"learning by building — treat all challenges with curiosity and build solutions from the ground up."*
-
+> *"i don't know yet, but i will learn and contribute to mission-driven projects."*
 ---
 
 ## `connect/`
