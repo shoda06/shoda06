@@ -18,11 +18,18 @@ third-year computer science student exploring **data, hardware, game development
 
 > data engineering track progress & continuous learning log.
 
-| skill / module | core technologies | exercises & notebooks | status |
+| main skills | core technologies | exercises / notebooks | status |
 | :--- | :--- | :--- | :--- |
-| **data engineering fundamentals** | python, sql, airflow | [`etl_pipeline.py`](https://github.com/shoda06) | `in progress` |
-| **database design & management** | postgresql, relational db | [`schema_design.sql`](https://github.com/shoda06) | `completed` |
-| **data manipulation & analytics** | pandas, numpy | [`data_analysis.ipynb`](https://github.com/shoda06) | `completed` |
+| **cloud computing basics** | aws, azure, gcp concepts | | `completed` |
+| **python programming fundamentals** | python | | `completed` |
+| **data ingestion & importing** | python, pandas, apis, flat files | | `completed` |
+| **api integration** | python, rest apis, json | | `completed` |
+| **data cleaning & quality** | python, pandas | | `completed` |
+| **python performance optimization** | python | | `completed` |
+| **version control & collaboration** | git, github | | `completed` |
+| **software engineering principles** | python, oop, modularity, testing | | `not started` |
+| **etl & elt pipeline design** | python, sql, etl/elt concepts | | `in progress` |
+| **workflow orchestration & scheduling** | apache airflow, python | | `not started` |
 
 ---
 
@@ -30,13 +37,13 @@ third-year computer science student exploring **data, hardware, game development
 
 > university computer science coursework and laboratory assignments.
 
-| course / module | lab commits | 
-| :--- | :--- | :--- | :--- |
-| **Web Application** | [lab tasks](https://github.com/shoda06/web-development-labs) | 
-| **Mobile Application** | [assignments](https://github.com/shoda06) |
-| **Game Development** | [projects](https://github.com/shoda06) | 
-| **Operating Systems** | [lab tasks](https://github.com/shoda06) |
-| **System Adminstration** | [assignments](https://github.com/shoda06) |
+| course / module | lab commits / assignments | status |
+| :--- | :--- | :--- |
+| **web application** | [lab tasks](https://github.com/shoda06/web-development-labs/tree/main/lab-01-web-app) | `in progress` |
+| **mobile application** | [assignments](https://github.com/shoda06) | `in progress` |
+| **game development** | [projects](https://github.com/shoda06) | `in progress` |
+| **operating systems** | [lab tasks](https://github.com/shoda06) | `in progress` |
+| **system administration** | [assignments](https://github.com/shoda06) | `in progress` |
 
 
 ---
