@@ -5,12 +5,10 @@
 # `whoami`
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&pause=1000&color=2E7D32&center=true&vCenter=true&width=500&lines=%F0%9F%8C%B2+cs+student+%C2%B7+builder+%C2%B7+explorer" alt="typing text" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&pause=1000&color=2E7D32&center=true&vCenter=true&width=500&lines=build%2C+break%2C+understand%2C+and+rebuild." alt="typing text" />
 </p>
 
 third-year computer science student exploring **data, hardware, game development, and ai.**
-
-**build, break, understand, and rebuild.**
 
 ---
 
