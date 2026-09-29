@@ -38,7 +38,7 @@ third-year computer science student exploring **data, hardware, game development
 | course / module | lab commits / assignments | status |
 | :--- | :--- | :--- |
 | **web application** | [lab tasks](https://github.com/shoda06/web-development-labs) | `in progress` |
-| **mobile application** | [assignments]((https://github.com/shoda06/mobile-application-labs)) | `in progress` |
+| **mobile application** | [assignments](https://github.com/shoda06/mobile-application-labs) | `in progress` |
 | **game development** | [projects](https://github.com/shoda06/game-development-labs) | `in progress` |
 | **operating systems** | [lab tasks](https://github.com/shoda06/operating-systems-labs) | `in progress` |
 | **system administration** | [assignments](https://github.com/shoda06/system-administration-labs) | `in progress` |
