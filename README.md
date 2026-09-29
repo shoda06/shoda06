@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Dilshoda's GitHub header">
+  <img src="assets/header.png" alt="Dilshoda's GitHub header">
 </p>
 
 # `whoami`
